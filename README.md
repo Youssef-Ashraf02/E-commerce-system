@@ -45,7 +45,7 @@ The system uses **object-oriented design** principles and demonstrates:
 |-------------------|---------------------|
 | 0 - 5             | $5                  |
 | >5 - 20           | $8                  |
-| >20               | $12                 |
+| >20               | $15                |
 
 - Deduct stock and balance
 - Print a detailed checkout summary
