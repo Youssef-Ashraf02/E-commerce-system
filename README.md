@@ -1,6 +1,5 @@
 # E-commerce-system
 
-# E-Commerce Checkout System
 
 ## 🛒 Overview
 
